@@ -45,6 +45,16 @@ On the platform, there are also [Public APIs](https://blastapi.io/public-api/opt
 
 - OP Mainnet
 - OP Goerli
+  
+
+## Blockin.ai
+
+### Description and Pricing
+
+[Blockin.ai](https://blockin.ai) provides services that include APIs for chains, protocols, users, tokens, NFTs, mirrors, subscriptions, and pricing. It supports major chains like Ethereum, BNB Chain, Polygon, Avalanche, Optimism, Base, Arbitrum, Bitcoin, Solana, Sui, Sei, Aptos, Opbnb and many more.
+Key features include portfolio tracking, on-chain analytics, trading analytics, NFT analytics, token analytics, portfolio analytics, and mirror trading.
+Free subscription plans are available to users.  For higher demanding tiers pricing averages to 200 USD / 1 million units.
+
 
 ## BlockSpaces
 
